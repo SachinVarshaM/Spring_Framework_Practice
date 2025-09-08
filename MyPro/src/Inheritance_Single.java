@@ -1,0 +1,34 @@
+
+public class Inheritance_Single {
+
+	public static void main(String[] args) {
+
+		Parent p=new Base();
+		System.out.println(p.a);
+		
+		String str=new String("Hello");
+		if(str=="Hello")
+		{
+			System.out.println("Matched");
+		}
+		else
+		{
+			System.out.println("Not Matched");
+		}
+		
+
+	}
+
+}
+
+
+
+
+class Base extends Parent
+{
+	int a=20;
+}
+class Parent 
+{
+	int a=10;
+}

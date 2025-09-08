@@ -1,0 +1,21 @@
+
+public class Inheritance_Single {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
+
+
+
+
+class Base
+{
+	int a=10;
+}
+class Parent extends Base
+{
+	int a=20;
+}

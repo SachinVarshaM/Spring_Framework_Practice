@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0" value="121"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1" value="194"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2" value="82"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn" value="1"/>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=DemoSpring4th/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sm.DemoSpring4th{App.java[App&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=DemoSpring9th/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sm.DemoSpring9th{App.java[App&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=DemoSpring10th/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sm.DemoSpring10th{App.java[App&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=DemoSpring11th/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sm.DemoSpring11th{App.java[App&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Demo/D:\/Software\/JAVA\/apache-tomcat-10.0.22-windows-x64\/apache-tomcat-10.0.22\/lib\/catalina.jar=/owner.project.facets=/jst.web=/=/javadoc_location=/http:\/\/tomcat.apache.org\/tomcat-10.0-doc\/api\/=/&amp;lt;org.apache.catalina.realm(AuthenticatedUserRealm.class[AuthenticatedUserRealm&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ORM_CRUD_Opera/C:\/Users\/manes\/.m2\/repository\/org\/antlr\/antlr4-runtime\/4.9.1\/antlr4-runtime-4.9.1.jar&amp;lt;org.antlr.v4.runtime.atn(PredictionMode$AltAndContextMap.class[AltAndContextMap&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=CRUD_OPS/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sm.CRUD_OPS{App.java[App&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="391"/>
+			<item key="DIALOG_Y_ORIGIN" value="35"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

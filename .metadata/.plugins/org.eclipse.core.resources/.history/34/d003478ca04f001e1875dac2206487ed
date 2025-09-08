@@ -1,0 +1,27 @@
+interface MyInterface
+{
+	public int addition(int a,int b);
+	
+	public int addition(int a,int b, int c);
+}
+/*interface MyInterface1
+{
+	public int addition(int a,int b, int c);
+	
+	
+}
+*/
+public class LambdaExpression {
+	public static void main(String[] args) {
+	
+		MyInterface mi=(int a, int b)->(a+b);
+		
+	System.out.println(	mi.addition(10, 20));
+	
+	 
+	
+	MyInterface1 m2=(a,b,c)->(a+b+c);
+	
+	}
+
+}

@@ -1,0 +1,23 @@
+
+public class Inheritance_Single {
+
+	public static void main(String[] args) {
+
+		Parent p=new Base();
+		System.out.println(p.a);
+
+	}
+
+}
+
+
+
+
+class Base extends Parent
+{
+	int a=10;
+}
+class Parent 
+{
+	int a=20;
+}

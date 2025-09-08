@@ -1,0 +1,4 @@
+127.0.0.1 - - [27/Oct/2024:16:40:10 +0530] "GET / HTTP/1.1" 404 752
+127.0.0.1 - - [27/Oct/2024:16:43:00 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [27/Oct/2024:16:43:54 +0530] "GET /SpringMVC1st/WEB-INF/classes/ControllerClass/SpringController.java HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [27/Oct/2024:16:43:55 +0530] "GET /favicon.ico HTTP/1.1" 404 763
