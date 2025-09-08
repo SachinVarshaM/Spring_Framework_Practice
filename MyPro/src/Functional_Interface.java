@@ -6,6 +6,8 @@ public class Functional_Interface {
 		IA a=()->"Sachin";
 		System.out.println(a.name());
 		
+		ADD add=(x,y)-> x+y;
+		 System.out.println("Addition : "+ add.sum(20, 40));
 	}
 
 }
@@ -14,4 +16,9 @@ public class Functional_Interface {
 interface IA
 {
 	String name();
+}
+
+interface ADD
+{
+	int sum(int a,int b);
 }
