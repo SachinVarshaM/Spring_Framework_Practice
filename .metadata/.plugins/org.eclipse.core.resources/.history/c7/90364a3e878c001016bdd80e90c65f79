@@ -1,0 +1,15 @@
+
+public class Functional_Interface {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}
+
+
+interface IA
+{
+	String name();
+}
