@@ -1,0 +1,31 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collection;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Optional;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
+
+public class SecondHighestNumber {
+
+	public static void main(String[] args) {
+		List<Integer> list=Arrays.asList(1,32,33,44,53,99,0,01,-1,43,67);
+		List<Integer> l2=list.stream().filter(s->s%2==1).toList();
+		System.out.println(l2);
+		
+		Integer n=list.stream().distinct().sorted(Comparator.reverseOrder()).skip(1).findFirst().orElse(null);
+		
+		System.out.println(n);
+		
+		l2=list.stream().sorted(Comparator.reverseOrder()).collect(Collectors.toList());;
+		System.out.println(l2);
+		List<Integer> al=list.stream().distinct().filter(s->s>0).collect(Collectors.toList());
+		System.out.println(al);
+	}
+
+}
+
+ 
+
+

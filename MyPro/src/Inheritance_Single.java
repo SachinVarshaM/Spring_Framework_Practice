@@ -6,7 +6,7 @@ public class Inheritance_Single {
 		Parent p=new Base();
 		System.out.println(p.a);
 		
-		String str=new String("Hello");
+		String str=new String("Hello").intern();
 		if(str=="Hello")
 		{
 			System.out.println("Matched");
