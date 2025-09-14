@@ -1,0 +1,16 @@
+import java.util.Hashtable;
+
+public class Collection_Hashtable {
+
+	public static void main(String[] args) {
+		 Hashtable<Integer, Integer> htable=new Hashtable<Integer, Integer>();
+		 htable.put(1, 20);
+		 htable.put(2, 10);
+		 htable.put(3, 30);
+		 htable.put(4, 40);
+		 htable.put(5, 60);
+		 htable.put(6,50);
+
+	}
+
+}
