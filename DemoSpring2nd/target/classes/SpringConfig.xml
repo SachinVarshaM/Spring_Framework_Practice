@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+  <bean class="com.sm.DemoSpring2nd.Emp" name="demoEmp">
+  <property name="empId">
+  <value>1001</value>
+  </property>
+  <property name="empName">
+  <value>Sachin Mane</value>
+  </property>
+  <property name="empAddress">
+  	<value>Velapur</value>
+  </property>
+  </bean>      
+        
+  </beans>

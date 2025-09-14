@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xmlns:web="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd" id="WebApp_ID" version="5.0">
+  <display-name>DemoApp</display-name>
+  <servlet>
+    <description></description>
+    <display-name>AddServlet1</display-name>
+    <servlet-name>AddServlet1</servlet-name>
+    <servlet-class>AddServlet1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AddServlet1</servlet-name>
+    <url-pattern>/AddServlet1</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>Cust_Home</display-name>
+    <servlet-name>Cust_Home</servlet-name>
+    <servlet-class>Cust_Home</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Cust_Home</servlet-name>
+    <url-pattern>/Cust_Home</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>Cust_Home1</display-name>
+    <servlet-name>Cust_Home1</servlet-name>
+    <servlet-class>Cust_Home1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Cust_Home1</servlet-name>
+    <url-pattern>/Cust_Home1</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>Cust_H</display-name>
+    <servlet-name>Cust_H</servlet-name>
+    <servlet-class>Cust_H</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Cust_H</servlet-name>
+    <url-pattern>/Cust_H</url-pattern>
+  </servlet-mapping>
+</web-app>

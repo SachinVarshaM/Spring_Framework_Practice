@@ -1,0 +1,20 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class SteamAPI {
+
+	public static void main(String[] args) {
+		 List<String> list=new ArrayList<String>();
+		 list.add("Sachin");
+		 list.add("Sachin");
+		 list.add("John");
+		 list.add("Jacksan");
+		 list.add("Michal");
+		 list.add("Chirs");
+		 int count=(int)list.stream().filter(e->e.equals("Sachin")).count();
+		 System.out.println(count);
+		 
+
+	}
+
+}

@@ -1,0 +1,12 @@
+interface MyInterface
+{
+	public int addition(int a,int b);
+	}
+public class LambdaExpression {
+	public static void main(String[] args) {
+	
+		MyInterface mi=(int a, int b)->(a+b);
+		
+	}
+
+}

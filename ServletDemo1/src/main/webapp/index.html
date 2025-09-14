@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home Page</title>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+
+
+var form=$('#myForm');
+form.submit(function(){
+	$.ajax({
+		
+		url:'MyServlet',
+		data:form.serialize(),
+		type:'post',
+		success:function(data)
+		{
+			
+		}
+	});
+});
+</script>
+</head>
+<body>
+<form id="myForm">
+
+Enter Your Name : 
+
+<input type="text" name="txt1">
+<br>
+Age:
+<input type="text" name="text2">
+<br>
+<input type="submit" value="Submit">
+
+</form>
+</body>
+</html>

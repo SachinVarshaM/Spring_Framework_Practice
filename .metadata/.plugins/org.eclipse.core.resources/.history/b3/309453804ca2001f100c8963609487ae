@@ -1,0 +1,32 @@
+
+public class MyClass {
+
+	public static void main(String[] args) {
+		 String str1="ABBA";
+
+		String str2="";
+		char ch;
+		 
+		for(int i=str1.length();i>0;i--)
+		{
+			ch=str1.charAt(i);
+			str2=str2+ch;
+		}
+		 
+		 
+		 if(str1.equals(str2))
+		 {
+			 System.out.println("String is palindrom ");
+		 }
+		 else
+		 {
+			 System.out.println("String is not palindrom ");
+		 }
+		 
+		
+		 
+		 
+			 
+	}
+
+}

@@ -1,0 +1,14 @@
+
+public class StringReverse {
+
+	public static void main(String[] args) {
+		 String str="ABCD";
+		 String str2="";
+		 for(int i=str.length();i>0;i++)
+		 {
+			 str2=str2+str.charAt(i);
+		 }
+System.out.println("Reverse String:"+str2);
+	}
+
+}

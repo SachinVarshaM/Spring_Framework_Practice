@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\New folder\Spring2nd\src\main\java\SpringConfig.xml"/>
+			<item value="C:\Users\manes\New folder\SpringMVC5th\src\main\java\HController\HController.java"/>
+			<item value="C:\Users\manes\New folder\SpringMVC3rd\src\main\webapp\WEB-INF\views\help.jsp"/>
+			<item value="C:\Users\manes\New folder\SpringMVC2nd\src\main\java\ControllerClass\SpringController.java"/>
+			<item value="C:\Users\manes\New folder\SpringMVC1st\src\main\java\SpringMVC\HomeController.java"/>
+			<item value="C:\Users\manes\New folder\CRUD_OPS\src\main\java\com\sm\CRUD_OPS\App.java"/>
+			<item value="C:\Users\manes\New folder\DemoBasic\src\Test.java"/>
+			<item value="C:\Users\manes\New folder\Servers"/>
+			<item value="C:\Users\manes\New folder\DemoSpring"/>
+			<item value="C:\Users\manes\New folder\DemoSpring1st\src\main\java\SpringConfig.xml"/>
+			<item value="C:\Users\manes\New folder\DemoSr"/>
+			<item value="C:\Users\manes\New folder\DemoApp"/>
+			<item value="C:\Users\manes\New folder\sm"/>
+			<item value="C:\Users\manes\New folder\Demo\src\main\java\DemoDis.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.sm.OracleJDBCConnection"/>
+			<item value="com.sm.Spring4th_Collection"/>
+			<item value="com.sm.Spring3rd_P_Schema"/>
+			<item value="com.sm.Spring3rd_PSchema"/>
+			<item value="com.sm.Spring2nd"/>
+			<item value="com.sm.Spring1st"/>
+			<item value="com.sm.MyWebSite"/>
+			<item value="com.sm.SpringMVC7th"/>
+			<item value="com.sm.Spring"/>
+			<item value="com.sm.SpringMVC6th"/>
+			<item value="com.sm.SpringMVC5th"/>
+			<item value="com.sm.SpringMVC4th"/>
+			<item value="com.sm.SpringMVC3rd"/>
+			<item value="com.sm.SpringMVC2nd"/>
+		</list>
+		<list key="groupId">
+			<item value="com.sm"/>
+		</list>
+		<list key="artifactId">
+			<item value="OracleJDBCConnection"/>
+			<item value="Spring4th_Collection"/>
+			<item value="Spring3rd_P_Schema"/>
+			<item value="Spring3rd_PSchema"/>
+			<item value="Spring2nd"/>
+			<item value="Spring1st"/>
+			<item value="MyWebSite"/>
+			<item value="SpringMVC7th"/>
+			<item value="Spring"/>
+			<item value="SpringMVC6th"/>
+			<item value="SpringMVC5th"/>
+			<item value="SpringMVC4th"/>
+			<item value="SpringMVC3rd"/>
+			<item value="SpringMVC2nd"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

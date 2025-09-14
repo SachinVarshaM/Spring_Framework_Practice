@@ -1,0 +1,20 @@
+package com.sm.DemoSpring9th;
+
+public class EMP {
+	int emiID;
+
+	public int getEmiID() {
+		return emiID;
+	}
+
+	public void setEmiID(int emiID) {
+		this.emiID = emiID;
+	}
+
+	@Override
+	public String toString() {
+		return "EMP [emiID=" + emiID + "]";
+	}
+	
+
+}

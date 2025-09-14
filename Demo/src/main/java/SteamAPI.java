@@ -1,0 +1,26 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
+public class SteamAPI {
+
+	public static void main(String[] args) {
+		 List<String> list=new ArrayList<String>();
+		 list.add("Sachin");
+		 list.add("Sachin");
+		 list.add("John");
+		 list.add("Jacksan");
+		 list.add("Michal");
+		 list.add("Chirs");
+		 int count=(int)list.stream().filter(e->e.equals("Sachin")).count();
+		 System.out.println(count);
+		 list=list.stream().filter(a->a.equals("Sachin")).toList();
+		 System.out.println(list);
+		 
+		list.stream().map(e->e.equals("Sachin")).forEach(x->System.out.println(x));;
+		 
+		 
+
+	}
+
+}
